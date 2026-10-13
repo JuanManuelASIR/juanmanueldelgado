@@ -14,9 +14,9 @@ Administrador de sistemas (ASIR) con experiencia en soporte IT, especializándom
 ## 🛠️ Stack
 
 - **Lenguajes:** Python, SQL, Bash
-- **Datos:** [pandas, PySpark, PostgreSQL... lo que hayas usado de verdad]
-- **Infraestructura:** Linux, Docker, Git, [redes, virtualización...]
-- **Visualización:** [Power BI, Streamlit, Matplotlib...]
+- **Datos:** pandas, PySpark, PostgreSQL
+- **Infraestructura:** Linux, Docker, Git,redes, virtualización
+- **Visualización:** Power BI, Matplotlib
 
 ## 📂 Proyectos
 
